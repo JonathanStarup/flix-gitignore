@@ -6,11 +6,11 @@ target/
 # Crash Reports
 crash_report_*.txt
 
-# Custom flix jar and build jars
-*.jar
+# Custom flix jar and build jars in root
+/*.jar
 
-# Flix package
-*.fpkg
+# Flix package in root
+/*.fpkg
 
 # local files
 **/personal/**
